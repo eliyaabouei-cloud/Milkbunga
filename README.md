@@ -74,13 +74,13 @@ Features
         Enable Supervision
         Set Supervision Organization Name
 Screenshots
-<img width="1795" height="888" alt="Apply" src="https://github.com/user-attachments/assets/8bb552b0-78c5-44a3-91ae-542272c8c37e" />
-<img width="1792" height="898" alt="Setup Options" src="https://github.com/user-attachments/assets/e786e916-81fb-4214-a58d-328eb36ed953" />
-<img width="1792" height="893" alt="Internal Options" src="https://github.com/user-attachments/assets/d4e29da7-b42b-475e-a42b-05bb550b83c4" />
-<img width="1797" height="902" alt="Springboard Options" src="https://github.com/user-attachments/assets/91ffda1a-a320-4995-b0b0-d707b7621078" />
-<img width="1794" height="893" alt="Status Bar" src="https://github.com/user-attachments/assets/a182df92-420b-4339-be1c-d7156e46b647" />
-<img width="1798" height="889" alt="Control Center" src="https://github.com/user-attachments/assets/bd1c6545-8ea6-4780-ac37-0cc3927b3532" />
-<img width="1794" height="903" alt="Icon Theming" src="https://github.com/user-attachments/assets/5d09f3c8-0878-4a47-877a-05e93cbcfd4e" />
-<img width="1789" height="897" alt="Custom Operations" src="https://github.com/user-attachments/assets/8ae5404e-df8f-4534-b4a2-9ad29bcf7a9a" />
-<img width="1797" height="896" alt="Explore" src="https://github.com/user-attachments/assets/b16262c7-72d2-454f-8051-35ee9f6e7569" />
-<img width="1794" height="892" alt="Home" src="https://github.com/user-attachments/assets/e2e4bd4c-d178-48ab-960d-fa558085f9f3" />
+<img width="1794" height="892" alt="Home" src="https://github.com/user-attachments/assets/fb144fbd-1cd9-48ad-9f27-9e14ea760af3" />
+<img width="1797" height="896" alt="Explore" src="https://github.com/user-attachments/assets/a64ae5af-5942-4733-8600-6ecb7740783b" />
+<img width="1789" height="897" alt="Custom Operations" src="https://github.com/user-attachments/assets/f15afec8-e3e9-4c28-82fc-f62cd1cf84cb" />
+<img width="1794" height="903" alt="Icon Theming" src="https://github.com/user-attachments/assets/b4268ae2-a4e2-4503-be56-6b5f27f3f3ed" />
+<img width="1798" height="889" alt="Control Center" src="https://github.com/user-attachments/assets/683146ea-94de-41b7-8ec6-f0a0a49289f7" />
+<img width="1794" height="893" alt="Status Bar" src="https://github.com/user-attachments/assets/278beacb-e184-42e6-8fdf-4552cf8ae8d8" />
+<img width="1797" height="902" alt="Springboard Options" src="https://github.com/user-attachments/assets/84b1abbc-0bd3-4e7a-b743-03f85f3999cb" />
+<img width="1792" height="893" alt="Internal Options" src="https://github.com/user-attachments/assets/1114c99d-6373-4665-a20c-f5287d51fa03" />
+<img width="1792" height="898" alt="Setup Options" src="https://github.com/user-attachments/assets/b728dfb2-e5d6-41c8-90ff-35fe17a19b44" />
+<img width="1795" height="888" alt="Apply" src="https://github.com/user-attachments/assets/d41a8d75-be2f-41f1-ab19-8d218e163020" />
