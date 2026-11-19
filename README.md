@@ -41,12 +41,7 @@ Features
         Show Numeric WiFi/Cellular Strength
         Hide Many Icons In The Status Bar
 
-    Control Center<img width="1788" height="895" alt="415AC010-345B-4A4D-BB0A-33CD00444160_1_201_a" src="https://github.com/user-attachments/assets/7409ee73-cb73-4fc1-9bb3-8abf9875430a" />
-<img width="1796" height="898" alt="82ED2B94-7313-449B-ACAB-D800E2917112_1_201_a" src="https://github.com/user-attachments/assets/0540afe9-5a86-4313-b3f5-92ea73f51557" />
-<img width="1793" height="891" alt="E87A86D5-C7CE-4E6F-8C67-B329A4C634FF_1_201_a" src="https://github.com/user-attachments/assets/66105777-4b18-47e3-9c9d-72cff403db00" />
-<img width="1788" height="891" alt="533D8A95-D4DB-4B94-AC4F-88C36DF0F09F_1_201_a" src="https://github.com/user-attachments/assets/096ba463-92e2-498f-a3b0-bd7c81e1bcc5" />
-<img width="1794" height="895" alt="C1A38314-565A-48B4-AC7A-A0B0D272D626_1_201_a" src="https://github.com/user-attachments/assets/3849a5f3-a00f-4e8f-9d64-937c55be59e2" />
-
+        Control Center
         Enable Mute Module
         Enable Focus UI Module
         Enable Siri Spoken Notifications Module
@@ -78,3 +73,8 @@ Features
         Skip Restore Setup
         Enable Supervision
         Set Supervision Organization Name
+Control Center<img width="1788" height="895" alt="415AC010-345B-4A4D-BB0A-33CD00444160_1_201_a" src="https://github.com/user-attachments/assets/7409ee73-cb73-4fc1-9bb3-8abf9875430a" />
+<img width="1796" height="898" alt="82ED2B94-7313-449B-ACAB-D800E2917112_1_201_a" src="https://github.com/user-attachments/assets/0540afe9-5a86-4313-b3f5-92ea73f51557" />
+<img width="1793" height="891" alt="E87A86D5-C7CE-4E6F-8C67-B329A4C634FF_1_201_a" src="https://github.com/user-attachments/assets/66105777-4b18-47e3-9c9d-72cff403db00" />
+<img width="1788" height="891" alt="533D8A95-D4DB-4B94-AC4F-88C36DF0F09F_1_201_a" src="https://github.com/user-attachments/assets/096ba463-92e2-498f-a3b0-bd7c81e1bcc5" />
+<img width="1794" height="895" alt="C1A38314-565A-48B4-AC7A-A0B0D272D626_1_201_a" src="https://github.com/user-attachments/assets/3849a5f3-a00f-4e8f-9d64-937c55be59e2" />
