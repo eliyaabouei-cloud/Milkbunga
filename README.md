@@ -74,8 +74,13 @@ Features
         Enable Supervision
         Set Supervision Organization Name
 Screenshots
-<img width="1788" height="895" alt="415AC010-345B-4A4D-BB0A-33CD00444160_1_201_a" src="https://github.com/user-attachments/assets/7409ee73-cb73-4fc1-9bb3-8abf9875430a" />
-<img width="1796" height="898" alt="82ED2B94-7313-449B-ACAB-D800E2917112_1_201_a" src="https://github.com/user-attachments/assets/0540afe9-5a86-4313-b3f5-92ea73f51557" />
-<img width="1793" height="891" alt="E87A86D5-C7CE-4E6F-8C67-B329A4C634FF_1_201_a" src="https://github.com/user-attachments/assets/66105777-4b18-47e3-9c9d-72cff403db00" />
-<img width="1788" height="891" alt="533D8A95-D4DB-4B94-AC4F-88C36DF0F09F_1_201_a" src="https://github.com/user-attachments/assets/096ba463-92e2-498f-a3b0-bd7c81e1bcc5" />
-<img width="1794" height="895" alt="C1A38314-565A-48B4-AC7A-A0B0D272D626_1_201_a" src="https://github.com/user-attachments/assets/3849a5f3-a00f-4e8f-9d64-937c55be59e2" />
+<img width="1795" height="888" alt="Apply" src="https://github.com/user-attachments/assets/8bb552b0-78c5-44a3-91ae-542272c8c37e" />
+<img width="1792" height="898" alt="Setup Options" src="https://github.com/user-attachments/assets/e786e916-81fb-4214-a58d-328eb36ed953" />
+<img width="1792" height="893" alt="Internal Options" src="https://github.com/user-attachments/assets/d4e29da7-b42b-475e-a42b-05bb550b83c4" />
+<img width="1797" height="902" alt="Springboard Options" src="https://github.com/user-attachments/assets/91ffda1a-a320-4995-b0b0-d707b7621078" />
+<img width="1794" height="893" alt="Status Bar" src="https://github.com/user-attachments/assets/a182df92-420b-4339-be1c-d7156e46b647" />
+<img width="1798" height="889" alt="Control Center" src="https://github.com/user-attachments/assets/bd1c6545-8ea6-4780-ac37-0cc3927b3532" />
+<img width="1794" height="903" alt="Icon Theming" src="https://github.com/user-attachments/assets/5d09f3c8-0878-4a47-877a-05e93cbcfd4e" />
+<img width="1789" height="897" alt="Custom Operations" src="https://github.com/user-attachments/assets/8ae5404e-df8f-4534-b4a2-9ad29bcf7a9a" />
+<img width="1797" height="896" alt="Explore" src="https://github.com/user-attachments/assets/b16262c7-72d2-454f-8051-35ee9f6e7569" />
+<img width="1794" height="892" alt="Home" src="https://github.com/user-attachments/assets/e2e4bd4c-d178-48ab-960d-fa558085f9f3" />
