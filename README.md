@@ -86,4 +86,3 @@ Screenshots
 <img width="1797" height="902" alt="Springboard Options" src="https://github.com/user-attachments/assets/84b1abbc-0bd3-4e7a-b743-03f85f3999cb" />
 <img width="1792" height="893" alt="Internal Options" src="https://github.com/user-attachments/assets/1114c99d-6373-4665-a20c-f5287d51fa03" />
 <img width="1792" height="898" alt="Setup Options" src="https://github.com/user-attachments/assets/b728dfb2-e5d6-41c8-90ff-35fe17a19b44" />
-<img width="1795" height="888" alt="Apply" src="https://github.com/user-attachments/assets/d41a8d75-be2f-41f1-ab19-8d218e163020" />
