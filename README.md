@@ -13,7 +13,7 @@ Requirements
 
 Installing
 
-Simply Download The .zip That For MacOS Version And Run The App. Plug In Your Phone And Start Tweaking!
+Simply Download The .ZIP That For MacOS Version And Run The App. Plug In Your Phone And Start Tweaking!
 
 Features
 
