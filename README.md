@@ -1,5 +1,8 @@
 <img width="1254" height="1254" alt="MilkbungaIcon" src="https://github.com/user-attachments/assets/c5d5e8f2-1c7f-4879-8efc-49788cd24a67" />
 Milkbunga
+
+Download https://drive.google.com/file/d/1AwsxsT3DCrTapLkWKcNOqu-Oxk0maI1G/view?usp=drivesdk And Extract It And Put It In Milkbunga-main
+
 iOS 17.2+ Users: Please Be Careful After Using. If You See A Screen Showing "iPhone Partially Set Up", Click The Button That Says "Continue With Partial Setup", Otherwise Your Phone's Data Will Be Erased!
 
 Please Back Up Your Devices Before Using This Software! We Are Not Responsible For Damage To Your Device. If You See The Data Transferring Screen, You MUST Select Do Not Transfer Apps and Data
