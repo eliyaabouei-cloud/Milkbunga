@@ -77,7 +77,7 @@ Features
         Enable Supervision
         Set Supervision Organization Name
 Screenshots
-<img width="1794" height="892" alt="Home" src="https://github.com/user-attachments/assets/fb144fbd-1cd9-48ad-9f27-9e14ea760af3" />
+<img width="1794" height="890" alt="2982752D-05ED-4924-9502-4F1418638CC1_1_201_a" src="https://github.com/user-attachments/assets/6fd9297d-02ed-4b7f-abdb-4172331c6400" />
 <img width="1797" height="896" alt="Explore" src="https://github.com/user-attachments/assets/a64ae5af-5942-4733-8600-6ecb7740783b" />
 <img width="1789" height="897" alt="Custom Operations" src="https://github.com/user-attachments/assets/f15afec8-e3e9-4c28-82fc-f62cd1cf84cb" />
 <img width="1794" height="903" alt="Icon Theming" src="https://github.com/user-attachments/assets/b4268ae2-a4e2-4503-be56-6b5f27f3f3ed" />
@@ -86,3 +86,4 @@ Screenshots
 <img width="1797" height="902" alt="Springboard Options" src="https://github.com/user-attachments/assets/84b1abbc-0bd3-4e7a-b743-03f85f3999cb" />
 <img width="1792" height="893" alt="Internal Options" src="https://github.com/user-attachments/assets/1114c99d-6373-4665-a20c-f5287d51fa03" />
 <img width="1792" height="898" alt="Setup Options" src="https://github.com/user-attachments/assets/b728dfb2-e5d6-41c8-90ff-35fe17a19b44" />
+<img width="1795" height="888" alt="Apply" src="https://github.com/user-attachments/assets/d41a8d75-be2f-41f1-ab19-8d218e163020" />
